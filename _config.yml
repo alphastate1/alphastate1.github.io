@@ -2,6 +2,10 @@ title: Alpha State
 show_downloads: false
 logo: /assets/img/test.png
 description: My Image
-
+url: https://alphastate1.github.io
 first_name: Alpha
+
+github:
+  zip_url: http://example.com/download.zip
+  repository_url: false
 theme: jekyll-theme-minimal
