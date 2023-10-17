@@ -1,14 +1,15 @@
 title: Alpha State
-show_downloads: false
+show_downloads: true
 logo: /assets/img/test.png
 description: My Image
 url: https://alphastate1.github.io
 first_name: Alpha
 
-# github:
-#   zip_url: http://example.com/download.zip
-#   repository_url: false
-
-is_user_page: false
+is_user_page: true
 is_project_page: false
+github:
+  zip_url: http://example.com/download.zip
+  repository_url: false
+  owner_url: https://alphastate1.github.io
+
 theme: jekyll-theme-minimal
