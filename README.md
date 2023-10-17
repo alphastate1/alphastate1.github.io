@@ -2,7 +2,8 @@
 
 [Link](alphastate1.github.io)
 
-<alphastate1.github.io>
+https://alphastate1.github.io/
+
 
 ## Acest *site* va gazdui preocuparile mele:
 - v1
