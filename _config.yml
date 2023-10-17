@@ -5,7 +5,9 @@ description: My Image
 url: https://alphastate1.github.io
 first_name: Alpha
 
-github:
-  zip_url: http://example.com/download.zip
-  repository_url: false
+# github:
+#   zip_url: http://example.com/download.zip
+#   repository_url: false
+
+is_project_page: false
 theme: jekyll-theme-minimal
