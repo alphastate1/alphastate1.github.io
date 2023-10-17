@@ -4,4 +4,4 @@
 
 
 
-Mergi la pagina principala: [link](/readme.md)
+Mergi la pagina principala: [link](https://alphastate1.github.io/)
