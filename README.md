@@ -6,7 +6,7 @@ https://alphastate1.github.io/
 
 ### Acest *site* va gazdui preocuparile mele:
 
-Mergi aici: [link](../blob/main/README.md)
+Mergi aici: [link](/about.md)
 
 Iata preocuparile mele:
 
