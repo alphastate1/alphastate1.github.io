@@ -2,7 +2,7 @@
 
 [Link](alphastate1.github.io)
 
-sau:
+sau (alta varianta):
 
 https://alphastate1.github.io/
 
