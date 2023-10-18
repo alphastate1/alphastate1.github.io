@@ -4,8 +4,4 @@
 
 
 
-Mergi la pagina principala: [link](https://alphastate1.github.io)
-
-[Link](alphastate1.github.io)
-
-test
+Revino la pagina principala: [link](https://alphastate1.github.io)

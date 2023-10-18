@@ -8,7 +8,6 @@ https://alphastate1.github.io/
 
 ### Acest *site* va gazdui preocuparile mele:
 
->Mergi aici: [link](/about.md)
 
 Iata preocuparile mele:
 
@@ -24,3 +23,5 @@ graph TD;
     B-->D;
     C-->D;
 ```
+
+>Despre mine: mergi aici: [link](/about.md)
