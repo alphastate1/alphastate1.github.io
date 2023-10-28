@@ -12,4 +12,6 @@ github:
   # tar_url: http://example.com/download.zip
   # repository_url: https://alphastate1.github.io
   
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
+
+remote_theme: mmistakes/minimal-mistakes 
