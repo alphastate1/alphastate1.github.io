@@ -1,4 +1,4 @@
-title: Alpha State
+title: Exmplu de Titlu
 show_downloads: false
 logo: /assets/img/test.png
 # description: My Image
@@ -7,10 +7,10 @@ github:
   is_user_page: true
   is_project_page: false
   repository_url: false
-  # owner_url: https://alphastate1.github.io
+  # owner_url: https://example.github.io
   # zip_url: http://example.com/download.zip
   # tar_url: http://example.com/download.zip
-  # repository_url: https://alphastate1.github.io
+  # repository_url: https://example.github.io
 
 # ---------------------------------------------------
 theme: jekyll-theme-minimal
