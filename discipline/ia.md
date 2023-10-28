@@ -1,1 +1,1 @@
-
+# Notite in sistemul Cornell
