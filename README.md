@@ -24,4 +24,6 @@ graph TD;
     C-->D;
 ```
 
+Notite despre IA: [link](/discipline/ia.md)
+
 >Despre mine: mergi aici: [link](/about.md)
