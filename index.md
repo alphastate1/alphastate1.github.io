@@ -1,3 +1,5 @@
+![Geodesy](/assets/img/geodesy.png)
+
 # **Adresa site-ului meu este**: 
 
 [Link](alphastate1.github.io)
