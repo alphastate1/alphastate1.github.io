@@ -11,7 +11,8 @@ github:
   # zip_url: http://example.com/download.zip
   # tar_url: http://example.com/download.zip
   # repository_url: https://alphastate1.github.io
-  
-# theme: jekyll-theme-minimal
 
-remote_theme:  Huxpro / huxpro.github.io 
+# ---------------------------------------------------
+# theme: jekyll-theme-minimal
+# remote_theme:  Huxpro / huxpro.github.io 
+remote_theme:  cotes2020 / jekyll-theme-chirpy 
